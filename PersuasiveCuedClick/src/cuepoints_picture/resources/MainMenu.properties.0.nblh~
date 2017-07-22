@@ -1,0 +1,45 @@
+jButton1.text=
+jButton2.text=
+jButton3.text=
+#NOI18N
+jButton2.font=Verdana-Bold-18
+jButton4.text=
+jLabel1.text=
+#NOI18N
+jLabel1.icon=mainframe14.png
+#NOI18N
+jButton1.background=255, 255, 255
+#NOI18N
+jButton1.icon=3.png
+#NOI18N
+jButton2.icon=1.png
+#NOI18N
+jButton3.icon=2.png
+#NOI18N
+jButton4.icon=4.png
+#NOI18N
+jButton1.foreground=0, 0, 0
+#NOI18N
+jButton1.border.lineColor=255, 255, 255
+Form.title=MainMenu
+jButton5.text=
+#NOI18N
+jButton5.background=0, 0, 0
+jLabel2.text=USERNAME AVAILABILITY
+#NOI18N
+jLabel2.foreground=153, 255, 255
+#NOI18N
+jLabel2.font=Consolas-Bold-14
+jLabel3.text=
+jButton6.text=
+#NOI18N
+jLabel3.foreground=204, 255, 255
+#NOI18N
+jLabel3.font=Consolas-Bold-18
+#NOI18N
+jButton6.icon=VERIFY.png
+jTextField1.text=
+#NOI18N
+jTextField1.foreground=51, 0, 0
+#NOI18N
+jTextField1.font=Tahoma-Plain-18

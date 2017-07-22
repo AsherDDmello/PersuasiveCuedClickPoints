@@ -1,0 +1,7 @@
+connect system/system;
+
+ create table cuepoints_registration(fullname varchar2(64),
+ loginname varchar2(32),role varchar2(32),question varchar2(128),
+ answer varchar2(128),cuepoints varchar2(128),pct1 blob,
+ pct2 blob,pct3 blob,pct4 blob,pct5 blob,blocks varchar2(128),choiceno number(3));
+

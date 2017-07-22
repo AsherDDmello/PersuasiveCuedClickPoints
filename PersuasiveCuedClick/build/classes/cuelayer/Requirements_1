@@ -1,0 +1,5 @@
+connect system/system;
+
+ create table picture(pct1 blob,
+ pct2 blob,pct3 blob,pct4 blob,pct5 blob,pct6 blob,pct7 blob,pct8 blob,pct9 blob,pct10 blob);
+
